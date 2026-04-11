@@ -1,0 +1,20 @@
+# Build
+bin/
+obj/
+ 
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.Backup.tmp
+*.tmp
+ 
+# Logs
+*.log
+ 
+# Rider
+.idea/
+ 
+# Mac
+.DS_Store
+ 
